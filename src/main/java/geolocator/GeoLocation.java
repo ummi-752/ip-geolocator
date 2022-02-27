@@ -1,2 +1,4 @@
-package geolocator;public class GeoLocation {
+package geolocator;
+
+public class GeoLocation {
 }
